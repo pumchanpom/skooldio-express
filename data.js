@@ -3,7 +3,7 @@ const data = [
     id: 1,
     name: "Jones' Salad (โจนส์สลัด) - ลาวิลล่าอารีย์",
     imgURL:
-      "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/merchants/3-C2AJJPVUSA3XTN/list/663667fc643248e79eee91535ba73e00_1646710695015759047.webp",
+      "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/merchants/3-C3WVAY33CB5CG6/hero/d64b54aeb01d4c659d22a6bc67371521_1682888768618173999.webp",
     type: "อาหารสุขภาพ, เบรคฟาสต์/บรั๊นช์",
   },
   {
@@ -33,6 +33,13 @@ const data = [
     imgURL:
       "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/merchants/3-C2VJRNLUMBCATE/hero/86b53c28f20648fb8baddf6ddf350564_1628409324613366934.webp",
     type: "ชา กาแฟ, เบเกอรี่, เค้ก",
+  },
+  {
+    id: 6,
+    name: "Prime Burger (ไพม์เบอร์เกอร์) - สุขุมวิท 27-29",
+    imgURL:
+      "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/merchants/3-CY6XV6AFAXWHNN/hero/3c3bb0a04bb143488d1f3e1ab9e2d2c4_1604844121721234479.webp",
+    type: "Burgers, Fast Food",
   },
 ];
 
