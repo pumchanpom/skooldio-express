@@ -3,7 +3,7 @@ const router = express.Router();
 
 const restaurants = require("../data");
 
-let currentRestaurantId = 5;
+let currentRestaurantId = 6;
 
 router.get("/", (req, res) => {
   res.json(restaurants);
