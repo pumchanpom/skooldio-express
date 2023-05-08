@@ -1,10 +1,14 @@
 const express = require("express");
 const app = express();
 const restaurantRouter = require("./routes/restaurants");
+const logger = require("./middleware/logger");
 
 // Middleware
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
+
+// Custom Middleware
+app.use(logger);
 
 // Routes
 app.use("/apis/restaurants", restaurantRouter);
