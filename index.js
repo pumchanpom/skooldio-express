@@ -13,10 +13,10 @@ app.use(logger);
 // Routes
 app.use("/apis/restaurants", restaurantRouter);
 
-app.get("/", (req, res) => {
-  res.send("<h1>Hello Express</h1>");
-});
+// app.get("/", (req, res) => {
+//   res.send("<h1>Hello Express</h1>");
+// });
 
-app.listen(3000, () => {
-  console.log("Listening to Port 3000.");
+app.listen(3030, () => {
+  console.log("Listening to Port 3030.");
 });
