@@ -9,4 +9,4 @@ Lessons Learned
 - Middleware
 - Template Engines
 
-![image](public\screenshot.jpg)
+![image](https://github.com/pumchanpom/skooldio-express/assets/125847424/aa4b44b2-a06c-49fc-ad75-93f76b153a7a)
