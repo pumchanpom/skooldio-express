@@ -9,4 +9,4 @@ Lessons Learned
 - Middleware
 - Template Engines
 
-![image](public\screenshot.png)
+![image](public\screenshot.jpg)
